@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTitle" type="id" />
+    <item name="editContent" type="id" />
+    <item name="backButton" type="id" />
+    <item name="editTextTitle" type="id" />
+    <item name="editTextContent" type="id" />
+    <item name="buttonSave" type="id" />
+</resources>
