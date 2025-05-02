@@ -8,6 +8,9 @@
 | **Mata Kuliah**    |     Pemrograman Mobile 2    |
 | **Dosen Pengampu** |Donny Maulana, S.Kom., M.M.S.I  |
 
+## LINK YOUTUBE PERSENTASI 
+
+
 #### Story Board
 ![image](https://github.com/user-attachments/assets/b79f2260-19fd-4d10-ac1d-2feed5a4682d)
 
