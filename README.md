@@ -12,11 +12,11 @@
 
 
 #### Story Board
-![image](https://github.com/user-attachments/assets/b79f2260-19fd-4d10-ac1d-2feed5a4682d)
+![gambar](dokumentasi/ss1.png)
 
 
 #### Mock Up
-![image](https://github.com/user-attachments/assets/2f165500-cadf-42a3-b56b-11398fde8304)
+![gambar](dokumentasi/ss2.png)
 
 
 
@@ -25,7 +25,7 @@
 
 
 #### UI
-![image](https://github.com/user-attachments/assets/1de69dcb-ed28-4864-9bca-c823ef910118)
+![gambar](dokumentasi/ss3.png)
 
 
 
